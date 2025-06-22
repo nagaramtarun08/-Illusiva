@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Illusiva</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>🤯 Illusiva </h1>
+    <p id="instructions">
+      1. Think of any two-digit number.<br>
+      2. Add both digits together.<br>
+      3. Subtract the total from your original number.<br>
+      4. Find your new number below and remember its symbol.
+    </p>
+    
+    <div id="number-grid"></div>
+    <button onclick="revealSymbol()">Reveal Symbol</button>
+    
+    <div id="reveal" class="hidden">
+      <p>You're thinking of...</p>
+      <h2 id="magic-symbol">🔮</h2>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
