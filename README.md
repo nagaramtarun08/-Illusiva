@@ -1,4 +1,4 @@
-# 🔮 Mind Reading Illusion App
+# 🔮  Illusiva
 
 A magical number illusion app built with HTML, CSS, and JavaScript that amazes users by "reading their mind" using a clever mathematical trick and a beautifully animated UI.
 
