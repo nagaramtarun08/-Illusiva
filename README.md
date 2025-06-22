@@ -29,8 +29,11 @@ A magical number illusion app built with HTML, CSS, and JavaScript that amazes u
 ## 📁 Project Structure
 
 mind-reading-app/
+
 ├── index.html # Main HTML file
+
 ├── style.css # All styling (glassmorphism & animation)
+
 └── script.js # Logic for number generation and reveal
 
 
