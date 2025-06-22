@@ -24,6 +24,8 @@ A magical number illusion app built with HTML, CSS, and JavaScript that amazes u
 
 > It works because the result is always a multiple of 9, and all multiples of 9 share the same symbol.
 
+---
+
 ## 📁 Project Structure
 
 mind-reading-app/
@@ -39,12 +41,6 @@ mind-reading-app/
 - HTML5  
 - CSS3 (with animations and transitions)  
 - JavaScript (DOM manipulation, logic)
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
